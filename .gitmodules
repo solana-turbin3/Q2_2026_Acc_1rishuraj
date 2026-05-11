@@ -1,0 +1,3 @@
+[submodule "accel_anchor_escrow"]
+	path = accel_anchor_escrow
+	url = https://github.com/1rishuraj/escrow-litesvm
