@@ -1,3 +1,6 @@
 [submodule "accel_anchor_escrow"]
 	path = accel_anchor_escrow
 	url = https://github.com/1rishuraj/escrow-litesvm
+[submodule "whitelist-transfer-hook"]
+	path = whitelist-transfer-hook
+	url = https://github.com/1rishuraj/whitelist-transfer-hook
