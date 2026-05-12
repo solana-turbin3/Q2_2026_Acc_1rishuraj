@@ -4,3 +4,6 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/1rishuraj/whitelist-transfer-hook
+[submodule "transfer-hook-vault"]
+	path = transfer-hook-vault
+	url = https://github.com/1rishuraj/transfer-hook-vault
